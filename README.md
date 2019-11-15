@@ -8,3 +8,9 @@ Groupe composé de :
 - Pericat Etienne
 
 Dans le cadre du cours d'ingénierie des exigences du M2 - ICE
+
+# Technique
+Ce projet utilise 2 feuilles google sheets qui contiennent la liste des exigences et des catégories affichées. 
+
+- page 1 : https://drive.google.com/open?id=1m5qgqnXrqyeBLocPuo1q9XGWH9g2ebXHoT3EVty_bIY
+- page 2 : https://drive.google.com/open?id=1QSph_eaVJTDyh3TnoichchuJf5qipYkaxGWZ9VcAeTE
