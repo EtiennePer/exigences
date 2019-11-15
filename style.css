@@ -1,0 +1,32 @@
+#table1 {
+    table-layout: auto;
+    width: 100%;
+}
+
+#table1 ol {
+    padding-inline-start: 0;
+}
+
+#table2 th {
+    text-align: center;
+}
+
+#table2 td {
+    text-align: center;
+}
+li {
+    margin: 4px;
+}
+
+.tdrelation {
+color: midnightblue;
+size: 6em;
+}
+
+.subcat {
+    text-align: left;
+    list-style-type: none;
+    list-style: none;
+    padding: 0;
+    color: darkred;
+}
