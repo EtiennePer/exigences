@@ -15,7 +15,7 @@ Ce projet utilise 2 feuilles google sheets qui contiennent la liste des exigence
 - page 1 : https://drive.google.com/open?id=1m5qgqnXrqyeBLocPuo1q9XGWH9g2ebXHoT3EVty_bIY
 - page 2 : https://drive.google.com/open?id=1QSph_eaVJTDyh3TnoichchuJf5qipYkaxGWZ9VcAeTE
 
-Vous pouvez donc ajoutez des lignes dans ces tableaux et les informations seront **automatiquement récpercutées** sur l'interface graphique.
+Vous pouvez donc ajoutez des lignes dans ces tableaux et les informations seront **automatiquement répercutées** sur l'interface graphique.
 
 # Points d'amélioration
 Une amélioration aurait été de récupérer le texte correspondant au lien de chaque ligne du tableau sur l'interface. (Nous n'avons pas réussi à le faire faute de temps et de solution technique).
